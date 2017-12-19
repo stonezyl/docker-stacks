@@ -1,6 +1,6 @@
 ![docker pulls](https://img.shields.io/docker/pulls/jupyter/tensorflow-notebook.svg) ![docker stars](https://img.shields.io/docker/stars/jupyter/tensorflow-notebook.svg) [![](https://images.microbadger.com/badges/image/jupyter/tensorflow-notebook.svg)](https://microbadger.com/images/jupyter/tensorflow-notebook "jupyter/tensorflow-notebook image metadata")
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/stonezyl/docker-stacks/tensorflow-notebook/)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/stonezyl/docker-stacks/tensorflow-notebook/master)
 
 # Jupyter Notebook Scientific Python Stack + Tensorflow
 
